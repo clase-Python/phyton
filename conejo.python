@@ -1,0 +1,6 @@
+conejos = 260
+zanahorias = 180
+print(conejos,zanahorias)
+
+
+
